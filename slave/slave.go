@@ -1,0 +1,4 @@
+package slave
+
+import "../elevio"
+
